@@ -1,0 +1,24 @@
+.container {
+    text-align:center;
+    width:260px;
+}
+
+.nombre {
+    background-color:gray;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.parrafo {
+    text-align:justify;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:italic;
+    font-size:15px;
+    
+}
+.correo {
+    background-color:lightgray;
+    padding:8px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+
+}

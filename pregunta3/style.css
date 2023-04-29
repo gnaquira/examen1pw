@@ -1,0 +1,30 @@
+.container {
+	margin: 50px auto;
+	width: 50%;
+	padding: 20px;
+	background-color:lightcyan;
+	border-radius: 5px;
+	box-shadow:5px 5px 5px;
+	text-align: center;
+}
+
+label {
+	display: inline-block;
+	margin-bottom: 10px;
+}
+
+
+
+button {
+	background-color: blue;
+	color: white;
+}
+
+button:hover {
+	background-color: red;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 50px;
+}
